@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  🐍 A lttle snake eating m contributions graph 
+  🐍 A lttle snake eating my contributions graph 
   <a href="#">
   <img  src="https://github.com/CallMeGrimmjow/CallMeGrimmjow/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
