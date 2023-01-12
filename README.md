@@ -13,7 +13,7 @@
 ## 🚀 Here you can find some of my statistics 
 <!-- ![Ezra's github stats](https://github-readme-stats.vercel.app/api?username=ezramosimann&show_icons=true&theme=tokyonight) 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezramosimann&theme=tokyonight" alt="mystreak"/> -->
-![Ezra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezramosimann&theme=tokyonight&layout=compact)
+<!-- ![Ezra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezramosimann&theme=tokyonight&layout=compact) -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
