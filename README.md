@@ -8,7 +8,7 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="email img" height="30"/></a>
 
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="movingLine.gif"></a>
 
 ## 🚀 Here you can find some of my statistics 
 <!-- ![Ezra's github stats](https://github-readme-stats.vercel.app/api?username=ezramosimann&show_icons=true&theme=tokyonight) 
