@@ -1,10 +1,10 @@
 <h1 align="center">Hello there ! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ezra</h1>
-<h3 align="center">a 19 year-old developer, currently in my 2nd year of apprenticeship at <a target="_blank" href="https://jobtrek.ch/">@Jobtrek</a> in 🇨🇭Switzerland.</h3>
+<h3 align="center">a 19 year-old developer, currently in my 3rd year of apprenticeship at <a target="_blank" href="https://biings.com/">@Biings</a> in 🇨🇭Switzerland.</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="movingLine.gif"></a>
 
 ## 📫 Contact me : 
-  <a href="mailto:ezra.mosimann@jobtrek.ch" target="_blank"><img align="center"
+  <a href="mailto:ezra.mosimann@biings.com" target="_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="email img" height="30"/></a>
 
