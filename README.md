@@ -1,5 +1,5 @@
 <h1 align="center">Hello there ! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ezra</h1>
-<h3 align="center">a 19 year-old developer, currently in my 3rd year of apprenticeship at <a target="_blank" href="https://biings.com/">Biings</a>.</h3>
+<h3 align="center">a 20 year-old developer, currently in my 3rd year of apprenticeship at <a target="_blank" href="https://biings.com/">Biings</a>.</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="movingLine.gif"></a>
 
