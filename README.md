@@ -21,6 +21,10 @@
 <div align="center">
   🐍 A lttle snake eating my contributions graph 
   <a href="#">
-  <img  src="https://github.com/ezramosimann/ezramosimann/blob/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
 </div>
