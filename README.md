@@ -10,14 +10,15 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="movingLine.gif"></a>
 
-## 🚀 Here you can find some of my statistics 
 <!-- 
+## 🚀 Here you can find some of my statistics 
+
 ![Ezra's github stats](https://github-readme-stats.vercel.app/api?username=ezramosimann&show_icons=true&theme=tokyonight) 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezramosimann&theme=tokyonight" alt="mystreak"/> 
--->
-![Ezra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezramosimann&theme=tokyonight&layout=compact) 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="movingLine.gif"></a>
 
+![Ezra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezramosimann&theme=nightowl&layout=compact) 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="movingLine.gif"></a>
+-->
 
 <div align="center">
   🐍 A lttle snake eating my contributions graph 
