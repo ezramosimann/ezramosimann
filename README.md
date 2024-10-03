@@ -1,5 +1,5 @@
 <h1 align="center">Hello there <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand">, my name is Ezra!</h1>
-<h3 align="center">a 20 year-old developer, currently in my 3rd year of apprenticeship at <a target="_blank" href="https://biings.com/">Biings</a>.</h3>
+<h3 align="center">a 20 year-old developer, currently in my 4th year of apprenticeship at <a target="_blank" href="https://biings.com/">Biings</a>.</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="movingLine.gif"></a>
 
@@ -21,7 +21,7 @@
 -->
 
 <div align="center">
-  🐍 A lttle snake eating my contributions graph 
+  🐍 A little snake eating my contributions graph 
   <a href="#">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
